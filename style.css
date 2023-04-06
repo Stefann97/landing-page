@@ -34,3 +34,50 @@ Main color: #1F2937
     color: #f9faf8;
     font-size: 24px;
 }
+
+/* Hero section *******************************/
+.hero{
+ /* padding-top: 20px; */
+ background-color: #1F2937; 
+ justify-content: center;
+ align-items: center;
+ height: 400px;
+}
+
+.hero-text img{
+width: 400px;
+height: 200px;
+}
+
+.hero-text{ 
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    
+}
+
+.hero-text article{
+    width: 400px;
+    height: 200px;
+}
+
+.hero-text article h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-text article p{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero-text article button{
+    margin-top: 10px;
+    color: #fff;
+    background-color: #3882f6;
+    border-radius: 5px;
+    /* width: 80px; */
+    padding: 10px 35px;
+    border: none;
+}
