@@ -150,10 +150,10 @@ height: 200px;
 .sing-up{
     display: flex;
     align-items: center;
-    width: 60%;
+    width: 65%;
     justify-content: space-around;
     background-color: #3882f6;
-    padding: 20px 0px;
+    padding: 20px 10px;
     border-radius: 6px;
     color: #fff;
 }
@@ -164,4 +164,14 @@ height: 200px;
     border: 1px solid #fff;
     padding: 3px 30px;
     border-radius: 7px;
+}
+
+/*Footer*****************************/
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    height: 50px;
+    align-items: center;
+    color: #fff;
 }
