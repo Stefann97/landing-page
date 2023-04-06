@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/*
+Main color: #1F2937
+*/
+.d-flex{
+    display: flex;
+}
+
+/* header **********************/
+.container{
+    justify-content: space-around;
+    padding: 25px;
+    background-color: #1F2937;
+}
+
+.container ul{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.container p{
+    color: #f9faf8;
+    font-size: 24px;
+}
