@@ -138,3 +138,30 @@ height: 200px;
     align-self: flex-end;
     margin: 20px 40px 0px 0px;
 }
+
+/* Sing up ******************************/
+.sing{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sing-up{
+    display: flex;
+    align-items: center;
+    width: 60%;
+    justify-content: space-around;
+    background-color: #3882f6;
+    padding: 20px 0px;
+    border-radius: 6px;
+    color: #fff;
+}
+
+.sing-up a{
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 3px 30px;
+    border-radius: 7px;
+}

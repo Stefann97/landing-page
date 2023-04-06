@@ -4,3 +4,4 @@
 3. Add hero section
 4 Added the information section
 5. Added qoute, didn't know what to use address or blockqoute i used address
+6. addet a a tag for button and the sing up sections
